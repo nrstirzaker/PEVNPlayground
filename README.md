@@ -1,6 +1,6 @@
-# PEVNTemplate
+# PEVNPlayground
 
-> My First PEVN App also using Nuxt
+> Playing with Nuxt
 
 ## Build Setup
 
